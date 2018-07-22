@@ -30,7 +30,6 @@ exports[`should render header correcty 1`] = `
   <NavLink
     activeClassName="is-active"
     ariaCurrent="true"
-    s={true}
     to="/help"
   >
     Help
